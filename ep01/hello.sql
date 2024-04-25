@@ -10,7 +10,3 @@
  or product_category_name = 'perfumaria')
 
 and product_photos_qty > 1
-
-
-
-
